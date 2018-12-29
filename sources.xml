@@ -1,0 +1,514 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>KAOSbox Meta Movies</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.meta/Movies/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/KAOSbox/Style/master/Meta/default/movies.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>KAOSbox Meta TV-Shows</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.meta/TVShows/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/KAOSbox/Style/master/Meta/default/tv.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>KAOSbox Meta Music</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.meta/Music/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/KAOSbox/Style/master/Meta/default/music.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>MetalliQ Movies</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.metalliq/Movies/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/OpenELEQ/Style/master/MetalliQ/default/movies.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>MetalliQ TV shows</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.metalliq/TVShows/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/OpenELEQ/Style/master/MetalliQ/default/tv.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>MetalliQ Music videos</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.metalliq/Music/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/OpenELEQ/Style/master/MetalliQ/default/musicvideos.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>MetalliQ Channels</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.metalliq/Live/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/OpenELEQ/Style/master/MetalliQ/default/live.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>.MD</name>
+            <path pathversion="1">http://muckys.mediaportal4kodi.ml/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.newtech</name>
+            <path pathversion="1">http://justnewtech.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.target</name>
+            <path pathversion="1">http://targetcreates.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.fusion</name>
+            <path pathversion="1">http://fusion.tvaddons.ag/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.overdose</name>
+            <path pathversion="1">http://overdose.srve.io/addons/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.whitedevil</name>
+            <path pathversion="1">http://whitedevil.890m.com/Repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.dahenchmen</name>
+            <path pathversion="1">http://dahenchmen.xyz/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.ares</name>
+            <path pathversion="1">http://ares-repo.eu/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.scaz</name>
+            <path pathversion="1">http://repo.cazwall.com/sc/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.dimitri</name>
+            <path pathversion="1">http://dimitrology.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.epgninja</name>
+            <path pathversion="1">http://epg.ninja/clairvoyance/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.CR</name>
+            <path pathversion="1">http://kodicommunity.com/comrepo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.spartanpixel</name>
+            <path pathversion="1">http://spartanpixel.net/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.ufo</name>
+            <path pathversion="1">http://theuforepo.us/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.xfinity</name>
+            <path pathversion="1">http://xunitytalk.me/xfinity/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.srp</name>
+            <path pathversion="1">http://srp.nu/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.dex</name>
+            <path pathversion="1">http://hostmybuild.com/repo2/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.mayfair</name>
+            <path pathversion="1">http://mayfairguides.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.reboot</name>
+            <path pathversion="1">http://hostmybuild.com/repo2/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.echo</name>
+            <path pathversion="1">http://echocoder.co.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.elitetv</name>
+            <path pathversion="1">http://archive.org/download/Repository.EliteTv/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.joker</name>
+            <path pathversion="1">http://jokerswizard.esy.es/joker/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.suicidetv</name>
+            <path pathversion="1">https://archive.org/download/plugin.video.suicidetv/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.vader</name>
+            <path pathversion="1">http://vaders.tv/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.kodisrael</name>
+            <path pathversion="1">http://kodisrael.co.il/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.apollo</name>
+            <path pathversion="1">http://repo.apollogroup.tv/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.oblivion</name>
+            <path pathversion="1">http://oblivionbuilds.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.gentecwiz</name>
+            <path pathversion="1">http://gen-tec.co/gentecwiz/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.adrian</name>
+            <path pathversion="1">http://adriansports.net16.net/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.flawless</name>
+            <path pathversion="1">http://flawless-iptv.xyz/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.getaflix</name>
+            <path pathversion="1">http://getaflix.us/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.goliath</name>
+            <path pathversion="1">http://www.matsbuilds.uk/goliath/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.silenthunter</name>
+            <path pathversion="1">http://repo.silenthunterstreams.net/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.urepo</name>
+            <path pathversion="1">http://www.urepo.org/install/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.projectcypher</name>
+            <path pathversion="1">http://cypher-media.co.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.streamteam</name>
+            <path pathversion="1">http://repo.streamteam.space/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.thespecialist</name>
+            <path pathversion="1">http://thespecialist.xyz/thespecialist/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.kodiuk</name>
+            <path pathversion="1">http://kodiuk.tv/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.noobsandnerds</name>
+            <path pathversion="1">http://noobsandnerds.com/portal/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.merlin</name>
+            <path pathversion="1">http://mwiz.co.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.streamhub</name>
+            <path pathversion="1">http://archive.org/download/repository.streamhub/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.aurora</name>
+            <path pathversion="1">http://simtech.net16.net/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.playersklub</name>
+            <path pathversion="1">http://theplayersklub.us/playersklub/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.dandymedia</name>
+            <path pathversion="1">http://www.dandymedia.club/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.eyecandytv</name>
+            <path pathversion="1">http://eyecandytv.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.toptutorial</name>
+            <path pathversion="1">http://toptutorialsrepo.co.uk/kodi/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.limitless</name>
+            <path pathversion="1">http://limitlessrva.com/IPTV/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.drstream</name>
+            <path pathversion="1">http://drstream.000webhostapp.com/Repository/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.streamaddons</name>
+            <path pathversion="1">http://www.streamaddons.eu/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.freethemonster</name>
+            <path pathversion="1">http://freethemonstercouk.xyz/freethemonster/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.mwiz</name>
+            <path pathversion="1">http://mwiz.co.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.sanctuary</name>
+            <path pathversion="1">http://sanctuaryrepo.esy.es/sanc/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.muckyd</name>
+            <path pathversion="1">http://muckys.mediaportal4kodi.ml/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.urbanempire</name>
+            <path pathversion="1">http://infa.ml/UrbanEmpire/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.smash</name>
+            <path pathversion="1">http://mediarepos.org/kodistuff/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.pulse</name>
+            <path pathversion="1">http://pulsewizard.co.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.tvguides</name>
+            <path pathversion="1">http://tvstreamers.net/repo/tvguides/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.rmkodi</name>
+            <path pathversion="1">http://rmkodi.uk/repo/Addons/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.ivue</name>
+            <path pathversion="1">http://ivuetvguide.com/install/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.ukturk</name>
+            <path pathversion="1">https://addoncloud.org/ukturk/install/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.devraiden</name>
+            <path pathversion="1">http://devraiden.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.tvaddons</name>
+            <path pathversion="1">http://tinyurl.com/tvaddonsco/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.teamxkodi</name>
+            <path pathversion="1">http://teamxkodi.tk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.titan</name>
+            <path pathversion="1">https://archive.org/download/titanrepo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.renegades</name>
+            <path pathversion="1">http://renegadestv.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.adryan</name>
+            <path pathversion="1">http://repo.adryanlist.xyz/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.supremacy</name>
+            <path pathversion="1">http://supremacy.org.uk/zip/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.revolution</name>
+            <path pathversion="1">http://mykodirevolution.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.origin</name>
+            <path pathversion="1">http://archive.org/download/back2basicsrepo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.boom</name>
+            <path pathversion="1">http://i4pro.co.uk/kodi/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.daffy</name>
+            <path pathversion="1">http://daffyslist.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.maverick</name>
+            <path pathversion="1">http://mavericktv.net/mavrepo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.projectd</name>
+            <path pathversion="1">http://repo.projectdaddon.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.durex</name>
+            <path pathversion="1">http://drxbld.com/wiz/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.xvbmc</name>
+            <path pathversion="1">http://archive.org/download/repository.xvbmc/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.thepyramid</name>
+            <path pathversion="1">http://repozip.teamzt.seedr.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.poseidon</name>
+            <path pathversion="1">http://soullessbuilds.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.mobdina</name>
+            <path pathversion="1">http://playonmonkeys.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.secrettvvip</name>
+            <path pathversion="1">http://vipsecret.amerikanotuga.tech/VipSecrettv/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.spinz</name>
+            <path pathversion="1">http://repo.stvmc.net/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.deathstreams</name>
+            <path pathversion="1">http://repo.lookingglass.rocks/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.ftg</name>
+            <path pathversion="1">http://firetvguru.net/fire/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.goodfellas</name>
+            <path pathversion="1">http://www.goodfellasteam.com/Repository/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.bamf</name>
+            <path pathversion="1">http://genietvcunts.co.uk/bamffff/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.stealth</name>
+            <path pathversion="1">http://stealthaddon.com/stealth/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.streamarmy</name>
+            <path pathversion="1">http://streamarmy.co.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.falcon</name>
+            <path pathversion="1">http://ajbuilds.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.ultraiptv</name>
+            <path pathversion="1">http://cazlo.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.deliverance</name>
+            <path pathversion="1">http://sport-xplosion.com/DELIVERANCE/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.risingtides</name>
+            <path pathversion="1">http://mullafabz.net.rw/Repository/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.retromania</name>
+            <path pathversion="1">http://rmkodi.uk/repo/RMAddons/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>
