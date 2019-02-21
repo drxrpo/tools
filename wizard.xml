@@ -1,6 +1,6 @@
 name="DRX Build for Kodi Krypton 17.x"
-version="9.1"             
-url="http://netpleex.xyz/files/Kr91.zip"
+version="10.0"             
+url="http://netpleex.xyz/files/Kr10.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
@@ -9,7 +9,6 @@ fanart="https://"
 preview="http://"
 adult="no"
 description="Super fast build especially for Fire TV Sticks and loaded with top add-ons!"
-
 
 
 
