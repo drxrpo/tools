@@ -1,11 +1,7 @@
-name="repository.goldengun"
-version="8.0.0"
+name="plugin.program.drxwizard"
+version="6.4"
 url="http://"
 
-name="repository.luxury"
-version="1.3"
-url="http://"
-
-name="repository.rings"
-version="0.2"
+name="repository.drxrepopub"
+version="6.4"
 url="http://"
