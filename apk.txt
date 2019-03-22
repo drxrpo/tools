@@ -12,7 +12,7 @@ url="https://bit.ly/durextv"
 icon="https://raw.githubusercontent.com/drxrpo/images/master/wiz.jpg"
 fanart="https://raw.githubusercontent.com/drxrpo/images/master/fanart.jpg"
 adult="No"
-description="Fork of Kodi 18.1 with Durex Wizard preinstalled. Be able to use to versions of Kodi."
+description="IPTV Smarters"
 
 
 
