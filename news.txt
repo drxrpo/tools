@@ -2,8 +2,31 @@
 |||
 [COLOR white]
 March 21, 2019: 
-[COLOR gold]Durex Build[/COLOR] [COLOR red]v10.1[/COLOR] Available!
-[COLOR white]Durex[/COLOR] [COLOR gold]TV[/COLOR] [COLOR white]2.0[/COLOR] is our paid subscription service more reliable than your free live tv streams.  It is implemented in the PAID section of Durex Build and has over 8000 (HD & SD) live tv channels from all over the world such as US, Canada, UK, and more. It has 24/7 channels, and includes all sports and PPV events.For more info or to purchase an account please email [COLOR blue]kodi.teh.help@gmail.com[/COLOR] to sign up for a subscription or request a free 24 hour trial. Hope to hear from you and thank you for using Durex Build.  
-[COLOR blue][B]FB Group: https://www.facebook.com/groups/drx.build [/B][/COLOR]
+[COLOR red]DORK 18.1[/COLOR] 
+Fork of the new Kodi 18.1 Leia Available w/ Durex Wizard preinstalled! 
+Included with new [COLOR gold]Durex Build 10.1![/COLOR]
+
+HOW TO INSTALL:
+Search "AFTV Downloader" in device AppStore (Amazon Fire TV AppStore or Google PlayStore).
+Install and open.
+Type in address "http://bit.ly/2Y7Xhrz" or "http://bit.ly/2ETIp93" and select "Go".
+Select "Install"
+Select "Open" 
+Once Dork 18.1 open, select "Install"  on left hand side.
+Choose a link under Leia Builds
+Select "Fresh Install"
+Follow prompts, allow to download and install then "Force Close" at the end.
+Go to device Apps and find Dork 18.1 and reopen. 
+Enjoy!
+
+[COLOR gold]DUREX TV[/COLOR]
+Our paid subscription service more reliable than your free live tv streams.  
+It is implemented in the PAID section of Durex Build and has over 8000 (HD & SD) live tv channels from all over the world such as US, Canada, UK, and more. 
+It has 24/7 channels, and includes all sports and PPV events.
+For more info or to purchase an account please email [COLOR blue]kodi.tech.help@gmail.com[/COLOR] to sign up for a subscription or request a free 24 hour trial. 
+Hope to hear from you and thank you for using Durex Build.  
+
+[COLOR blue]NEW FACEBOOK GROUP[/COLOR]
+[COLOR white][B]FB Group: https://www.facebook.com/groups/drx.build [/B][/COLOR]
 
 
