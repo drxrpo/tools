@@ -1,6 +1,6 @@
 name="[COLOR skyblue]Dork 18.1[/COLOR]"
 section="yes"
-url="http://bit.ly/kodi181"
+url="https://bit.ly/kodi181"
 icon="https://raw.githubusercontent.com/drxrpo/images/master/wiz.jpg"
 fanart="https://raw.githubusercontent.com/drxrpo/images/master/fanart.jpg"
 adult="No"
@@ -8,7 +8,7 @@ description="Fork of Kodi 18.1 with Durex Wizard preinstalled. Be able to use to
 
 name="[COLOR yellow]IPTV Smarters[/COLOR]"
 section="yes"
-url="http://bit.ly/durextv"
+url="https://bit.ly/durextv"
 icon="https://raw.githubusercontent.com/drxrpo/images/master/wiz.jpg"
 fanart="https://raw.githubusercontent.com/drxrpo/images/master/fanart.jpg"
 adult="No"
