@@ -1,6 +1,6 @@
 name="[COLOR skyblue]Dork 18.1[/COLOR]"
 section="yes"
-url="https://bit.ly/kodi181"
+url="https://bit.ly/leiadork"
 icon="https://raw.githubusercontent.com/drxrpo/images/master/wiz.jpg"
 fanart="https://raw.githubusercontent.com/drxrpo/images/master/fanart.jpg"
 adult="No"
