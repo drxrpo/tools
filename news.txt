@@ -9,7 +9,7 @@ Included with new [COLOR gold]Durex Build 10.1![/COLOR]
 HOW TO INSTALL:
 Search "AFTV Downloader" in device AppStore (Amazon Fire TV AppStore or Google PlayStore).
 Install and open.
-Type in address "http://bit.ly/dork181" and select "Go".
+Type in address "http://bit.ly/leiadork" or "http://bit.ly/dorkleia" and select "Go".
 Select "Install"
 Select "Open" 
 Once Dork 18.1 open, select "Install"  on left hand side.
