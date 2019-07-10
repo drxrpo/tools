@@ -1,10 +1,9 @@
 25
 |||
 [COLOR white]
-March 21, 2019: 
-[COLOR red]DORK 18.1[/COLOR] 
-Fork of the new Kodi 18.1 Leia Available w/ Durex Wizard preinstalled! 
-Included with new [COLOR gold]Durex Build 10.1![/COLOR]
+July 09, 2019: 
+[COLOR red]DORK 18.2[/COLOR] 
+[COLOR gold]Durex Build 11.0 Available![/COLOR]
 
 HOW TO INSTALL:
 Search "AFTV Downloader" in device AppStore (Amazon Fire TV AppStore or Google PlayStore).
